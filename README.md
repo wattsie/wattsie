@@ -10,6 +10,4 @@
 - ⚡ Fun fact: 1 + 1 sometimes equals 2
 
 <img alt="Wattsie's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wattsie&show_icons=true&theme=onedark" width="100%" />
-
-
-[![Wattsie's GitHub stats](https://github-readme-stats.vercel.app/api?username=wattsie&show_icons=true&theme=onedark)]
+<img alt="Wattsie's Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wattsie&layout=compact&theme=onedark" width="100%" />
