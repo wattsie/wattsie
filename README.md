@@ -9,3 +9,5 @@
 - 😄 Pronouns: I try not to indulge
 - ⚡ Fun fact: 1 + 1 sometimes equals 2
 
+<img alt="Wattsie's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wattsie&show_icons=true&theme=onedark" width="100%" />
+
