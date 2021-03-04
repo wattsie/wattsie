@@ -11,3 +11,5 @@
 
 <img alt="Wattsie's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wattsie&show_icons=true&theme=onedark" width="100%" />
 
+
+[![Wattsie's GitHub stats](https://github-readme-stats.vercel.app/api?username=wattsie&show_icons=true&theme=onedark)]
